@@ -7,4 +7,5 @@
 ## Object detection & instance segmentation
 ## Text detection & recognition
 ## Face detection & recognition
-## Image retrieval
+## Image retrieva
+## GAN
