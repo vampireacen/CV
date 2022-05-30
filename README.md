@@ -4,8 +4,9 @@
 
 ## Utils
 ## Image classification
-## Object detection & instance segmentation
+## Object detection
+## Segmentation
 ## Text detection & recognition
 ## Face detection & recognition
-## Image retrieva
+## Image retrieval
 ## GAN
